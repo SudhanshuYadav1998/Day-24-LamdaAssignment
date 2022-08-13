@@ -1,0 +1,15 @@
+C:\RFP\C_sharp\Day-24-Uc1-UserDetailsLamda\Day-24-Uc1-UserDetailsLamda\bin\Debug\net6.0\Day-24-Uc1-UserDetailsLamda.exe
+C:\RFP\C_sharp\Day-24-Uc1-UserDetailsLamda\Day-24-Uc1-UserDetailsLamda\bin\Debug\net6.0\Day-24-Uc1-UserDetailsLamda.deps.json
+C:\RFP\C_sharp\Day-24-Uc1-UserDetailsLamda\Day-24-Uc1-UserDetailsLamda\bin\Debug\net6.0\Day-24-Uc1-UserDetailsLamda.runtimeconfig.json
+C:\RFP\C_sharp\Day-24-Uc1-UserDetailsLamda\Day-24-Uc1-UserDetailsLamda\bin\Debug\net6.0\Day-24-Uc1-UserDetailsLamda.dll
+C:\RFP\C_sharp\Day-24-Uc1-UserDetailsLamda\Day-24-Uc1-UserDetailsLamda\bin\Debug\net6.0\Day-24-Uc1-UserDetailsLamda.pdb
+C:\RFP\C_sharp\Day-24-Uc1-UserDetailsLamda\Day-24-Uc1-UserDetailsLamda\obj\Debug\net6.0\Day-24-Uc1-UserDetailsLamda.csproj.AssemblyReference.cache
+C:\RFP\C_sharp\Day-24-Uc1-UserDetailsLamda\Day-24-Uc1-UserDetailsLamda\obj\Debug\net6.0\Day-24-Uc1-UserDetailsLamda.GeneratedMSBuildEditorConfig.editorconfig
+C:\RFP\C_sharp\Day-24-Uc1-UserDetailsLamda\Day-24-Uc1-UserDetailsLamda\obj\Debug\net6.0\Day-24-Uc1-UserDetailsLamda.AssemblyInfoInputs.cache
+C:\RFP\C_sharp\Day-24-Uc1-UserDetailsLamda\Day-24-Uc1-UserDetailsLamda\obj\Debug\net6.0\Day-24-Uc1-UserDetailsLamda.AssemblyInfo.cs
+C:\RFP\C_sharp\Day-24-Uc1-UserDetailsLamda\Day-24-Uc1-UserDetailsLamda\obj\Debug\net6.0\Day-24-Uc1-UserDetailsLamda.csproj.CoreCompileInputs.cache
+C:\RFP\C_sharp\Day-24-Uc1-UserDetailsLamda\Day-24-Uc1-UserDetailsLamda\obj\Debug\net6.0\Day-24-Uc1-UserDetailsLamda.dll
+C:\RFP\C_sharp\Day-24-Uc1-UserDetailsLamda\Day-24-Uc1-UserDetailsLamda\obj\Debug\net6.0\refint\Day-24-Uc1-UserDetailsLamda.dll
+C:\RFP\C_sharp\Day-24-Uc1-UserDetailsLamda\Day-24-Uc1-UserDetailsLamda\obj\Debug\net6.0\Day-24-Uc1-UserDetailsLamda.pdb
+C:\RFP\C_sharp\Day-24-Uc1-UserDetailsLamda\Day-24-Uc1-UserDetailsLamda\obj\Debug\net6.0\Day-24-Uc1-UserDetailsLamda.genruntimeconfig.cache
+C:\RFP\C_sharp\Day-24-Uc1-UserDetailsLamda\Day-24-Uc1-UserDetailsLamda\obj\Debug\net6.0\ref\Day-24-Uc1-UserDetailsLamda.dll
